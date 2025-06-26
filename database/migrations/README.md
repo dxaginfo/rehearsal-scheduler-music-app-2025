@@ -1,0 +1,1 @@
+- Place database migration scripts for PostgreSQL here for the Rehearsal Scheduler.
