@@ -1,0 +1,1 @@
+- This directory will contain Docker and deployment configurations for the Rehearsal Scheduler.
