@@ -1,0 +1,1 @@
+- This directory will contain the Node.js + Express backend API code for the Rehearsal Scheduler.
